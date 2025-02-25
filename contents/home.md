@@ -1,7 +1,6 @@
 
 #### Biography
-Feifei Zhang received the M.S. and Ph.D. degree in JiangSu Univerisity, Zhenjiang, Jiangsu, China, in 2019. Then, she worked as an Assistant Professor in National Laboratory of Pattern Recognition, Institute of Automation Chinese Academy of Sciences. She is currently a Professor with the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin, China. Her current research interests include multimedia analysis, computer vision, deep learning, especially multimedia computing, facial expression recognition and cross-modal image retrieval. 
-
+Professor Zhang Feifei is currently the  Professor and Doctoral Supervisor at Tianjin University of Technology. Her research interests include multimedia analysis, multimodal reasoning, and affective computing. She has published over 40 papers in top-tier journals and conferences, including IEEE TPAMI, CVPR, and ACM MM. She holds two authorized patents and has received accolades such as the Best Paper Award at the 2022 China Multimedia Conference and the Best Student Paper Runner Up at VCIP 2019. Professor Zhang has led multiple research projects, including grants from the National Natural Science Foundation of China and the Tianjin Natural Science Foundation. 
 
 #### Email
 feifeizhang[at]email.tjut.edu.cn
