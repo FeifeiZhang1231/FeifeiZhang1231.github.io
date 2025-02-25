@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
+- Best Paper Award at China Multimedia 2022
 
-- First-prize Scholarship of CUMT, 2024.
+- Best Student Paper Runner-Up Award at IEEE Visual Communications and Image Processing 2020
 
-- First-prize Scholarship of CUMT, 2023.
+- First Prize of Henan Province Natural Science Award
 
-- Freshman Scholarship of CUMT, 2022.
+- Third Prize of Jiangsu Provincial Science and Technology Award
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Outstanding Volunteers of China Multimedia

@@ -1,16 +1,13 @@
 
 
-[![FeifeiZhang1231](https://github.com/FeifeiZhang1231)](https://github.com/FeifeiZhang1231)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Feifei Zhang received the M.S. and Ph.D. degree in JiangSu Univerisity, Zhenjiang, Jiangsu, China, in 2019. Then, she worked as an Assistant Professor in National Laboratory of Pattern Recognition, Institute of Automation Chinese Academy of Sciences. She is currently a Professor with the School of Computer Science and Engineering, Tianjin University of Technology, Tianjin, China. Her current research interests include multimedia analysis, computer vision, deep learning, especially multimedia computing, facial expression recognition and cross-modal image retrieval. 
+
 
 #### Email
 feifeizhang[at]email.tjut.edu.cn
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+multimedia computing, computer vision, pattern recognition, and artificial intelligence.
 
